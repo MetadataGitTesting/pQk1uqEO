@@ -1,0 +1,58 @@
+name: agustin.fisher
+description: hub
+version: 0.0.1
+author: luewii9w.ycoitzte@8foqsrto.com
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 21:55:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels:
+  .prophecy/metadata/sqlmodels/model:
+    name: model
+    schema: null
+    description: ''
+    author: luewii9w.ycoitzte@8foqsrto.com
+    files:
+    - models/model.sql
+    - .prophecy/ide/models/model.json
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-12-05 21:55:04'
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: luewii9w.ycoitzte@8foqsrto.com
+  createdAt: '2025-12-05 21:55:03'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
